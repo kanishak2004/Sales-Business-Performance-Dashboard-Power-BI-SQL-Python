@@ -113,3 +113,5 @@ Example:
 
 - LinkedIn: *(Add your LinkedIn URL)*
 - GitHub: *(Add your GitHub URL)*
+
+Final DashBoard Image - file:///Users/kanishkthakur/Desktop/Screenshot%202026-08-05%20at%202.32.50%E2%80%AFAM.png
